@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sgh1.Core\Sgh1.Core.csproj" />
+    <ProjectReference Include="..\Sgh1.Events\Sgh1.Events.csproj" />
+  </ItemGroup>
+
+</Project>
